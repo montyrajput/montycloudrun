@@ -18,6 +18,7 @@ const App = () => {
       <Header />
       <main style={{ textAlign: "center", marginTop: "50px" }}>
         <h1>React + Express TypeScript Project</h1>
+        <h1>monty update to check ci/cd pineline added or not</h1>
         <p>{message}</p>
       </main>
       <Footer />
