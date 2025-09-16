@@ -21,6 +21,7 @@ const App = () => {
         <h1>monty update to check ci/cd pineline added or not</h1>
         <h1>monty update to check ci/cd pineline added or not</h1>
         <h1>monty update to check ci/cd pineline added or not check ones again</h1>
+        <h1>mohit update to check ci/cd pineline added or not check ones again</h1>
         <p>{message}</p>
       </main>
       <Footer />
