@@ -20,6 +20,7 @@ const App = () => {
         <h1>React + Express TypeScript Project</h1>
         <h1>monty update to check ci/cd pineline added or not</h1>
         <h1>monty update to check ci/cd pineline added or not</h1>
+        <h1>monty update to check ci/cd pineline added or not check ones again</h1>
         <p>{message}</p>
       </main>
       <Footer />
